@@ -2,3 +2,4 @@ hi hello
 commit is stazing repository 
 unit
 third
+how to use git
